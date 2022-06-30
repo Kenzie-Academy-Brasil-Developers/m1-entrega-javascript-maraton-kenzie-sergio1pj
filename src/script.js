@@ -1,1 +1,1 @@
-let arr = ["Rafael", "Manoel", "Daniel"];
+let names = ["Rafael", "Manoel", "Daniel"];
